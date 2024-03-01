@@ -25,3 +25,4 @@ Designing a database for a seaside restaurant that operates in a local town in a
 - the `db_backup_restore` directory contains the database back up file `db_backup_restore/back-up-seaside_restaurant.tar` to `RESTORE` the database
 
 
+![Alt text](./Database_ER_diagram_(crow's foot).jpeg)

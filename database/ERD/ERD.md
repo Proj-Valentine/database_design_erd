@@ -55,3 +55,5 @@
 14. **One-to-Many Relationship between Customer and Payment Details:**
     - A customer can have zero, one, or more payment details.
     - Each payment detail belongs to one and only one customer.
+
+    ![Alt text](../Database_ER_diagram_(crow's foot).jpeg)
