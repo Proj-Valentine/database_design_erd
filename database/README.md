@@ -1,4 +1,6 @@
 ###  Database
+Scenario:
+Designing a database for a seaside restaurant that operates in a local town in a small province
 
 ## TEST DATABASE OPTION 1
 ** To test the database, you can run the DDL's in the `create/createAllTablesCompiled.sql`
@@ -22,8 +24,4 @@
 ### Back Up and Restore
 - the `db_backup_restore` directory contains the database back up file `db_backup_restore/back-up-seaside_restaurant.tar` to `RESTORE` the database
 
-## TEAM MEMBERS
-- Valentine Ampah
-- Brady Green
-- Braden Hynes
-- Heather Bartlett
+
