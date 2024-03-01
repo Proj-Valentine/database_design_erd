@@ -26,5 +26,3 @@ Designing a database for a seaside restaurant that operates in a local town in a
 
 
 ![ERD](./Database_ER_diagram_crows_foot.jpeg)
-![ERD](database_design_erd/Database_ER_diagram_crows_foot.jpeg)
-![ERD](https://github.com/Proj-Valentine/database_design_erd/blob/main/Database_ER_diagram_crows_foot.jpeg)
